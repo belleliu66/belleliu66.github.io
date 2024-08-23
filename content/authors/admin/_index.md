@@ -22,7 +22,7 @@ role: Student
 # Organizations/Affiliations to display in Biography blox
 organizations:
   - name: University of Washington
-    url: [https://openai.com/](https://www.washington.edu)
+    url: https://www.washington.edu
 
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
@@ -33,7 +33,7 @@ profiles:
   - icon: brands/github
     url: https://github.com/belleliu66
   - icon: brands/linkedin
-    url: [https://www.linkedin.com/](https://www.linkedin.com/in/belle-liu-7584a6238/)
+    url: https://www.linkedin.com/in/belle-liu-7584a6238/
   - icon: academicons/orcid
     url: https://orcid.org/0000-0002-2707-2288
 
